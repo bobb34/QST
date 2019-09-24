@@ -1,7 +1,7 @@
 # QST
 Quiz/Survey/Test Online
 
-Is a full featured, secure, enterprise grade, online, quiz, survey, test/exam software aplication.
+Is a full featured, secure, enterprise grade, open source, online quiz/survey/test/exam software aplication.
 You can try it at qstonline.ca and download it from here or Sourceforge.net. 
 
 Creating a quiz, survey, or test? 
