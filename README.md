@@ -9,6 +9,8 @@ Our QST Builder interface makes it simple. The numerous features (WYSIWYG, Equat
 
 QST allows you to view/mark users quizzes and tests and examine detailed statistics for each quiz/survey/test and question(s) in it. Real time results analysis.
 
+Share your questions with other QST users or your Question Bank Administrator.
+
 GradeBook is also included, so you may also create marks for other assignments and add weights to qst's and assignments for a Complete Assessment Solution. Interpret all your results here.
 
 QST is written as an Apache perl handler ensuring a high user volume. 
