@@ -17,4 +17,8 @@ Runs on all major operating systems.
 
 Runs well on your laptop, server or the cloud.
 
+New Windows installation instructions.
+
+Get QST at sourceforge.net .
+
 Thank you to summernote.org for their super WYSIWIG editor, MathJax.com and letsencrypt.org for their free SSL certificates.
