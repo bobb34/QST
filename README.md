@@ -13,6 +13,8 @@ Share your questions with other QST users or your Question Bank Administrator.
 
 GradeBook is also included, so you may also create marks for other assignments and add weights to qst's and assignments for a Complete Assessment Solution. Interpret all your results here.
 
+Change the QST interface to your own language.
+
 QST is written as an Apache perl handler ensuring a high user volume. 
 
 Runs on all major operating systems.
