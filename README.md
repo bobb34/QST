@@ -11,7 +11,7 @@ QST allows you to view/mark users quizzes and tests and examine detailed statist
 
 Share your questions with other QST users or your Question Bank Administrator.
 
-GradeBook is also included, so you may also create marks for other assignments and add weights to qst's and assignments for a Complete Assessment Solution. Interpret all your results here.
+GradeBook is also included, so you may also create marks for other assignments and add weights(%) to qst's and assignments for a Complete Assessment Solution. Interpret all your results here.
 
 Change the QST interface to your own language.
 
