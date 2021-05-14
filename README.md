@@ -3,7 +3,7 @@ Quiz/Survey/Test Online
 
 The new gold standard for open source assessment software.
 This is not a feature reduced version of someone's commercial software, this is 100% OPEN SOURCE SOFTWARE. 
-Our business is OPEN source software.
+
 There are no caveats to using this, it is licenced under GPL v2.
 
 QST is a full featured, secure, enterprise grade, open source, online quiz/survey/test/exam software aplication.
@@ -14,17 +14,19 @@ Our QST Builder interface makes it simple. The numerous features (WYSIWYG, Equat
 
 QST allows you to view/mark users quizzes and tests and examine detailed statistics for each quiz/survey/test and question(s) in it. Real time results analysis.
 
-Share your questions with other QST users or your Question Bank Administrator.
+Share your questions with other QST users or your Question Bank Administrator (export/import questions as QST XML).
+Import questions and answers (including images) in your word .docs.
+Import questions and answers (including images) from Moodle XML files.
 
 GradeBook is also included, so you may also create marks for other assignments and add weights(%) to qst's and assignments for a Complete Assessment Solution. Interpret all your results here.
 
 Change the QST interface to your own language.
 
-QST is written as an Apache perl handler ensuring a high user volume. 
+QST will easily handle 100's of simultaneous users.
 
 Runs on all major operating systems.
 
-Runs well on your laptop, server or the cloud.
+Runs on your laptop, server or the cloud.
 
 Get QST at https://sourceforge.net/projects/qstonline/ .
 
