@@ -14,7 +14,7 @@ Our QST Builder interface makes it simple. The numerous features (WYSIWYG, Equat
 
 QST allows you to view/mark users quizzes and tests and examine detailed statistics for each quiz/survey/test and question(s) in it. Real time results analysis.
 
-Share your questions with other QST users or your Question Bank Administrator (export/import questions as QST XML).
+Share your questions with other QST users or your Question Bank Administrator (export/import questions with images and pdf's as QST XML).
 Import questions and answers (including images) in your word .docs.
 Import questions and answers (including images) from Moodle XML files.
 
@@ -22,7 +22,7 @@ GradeBook is also included, so you may also create marks for other assignments a
 
 Change the QST interface to your own language.
 
-QST will easily handle 100's of simultaneous users.
+QST will easily handle 100's of simultaneous users and can scale to thousands.
 
 Runs on all major operating systems.
 
