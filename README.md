@@ -5,13 +5,15 @@ The new gold standard for open source assessment software.
 
 This is not a feature reduced version of some vendors commercial software.
 
-We don't mislead you by using the terms 'open source', then only talk about the extra features of our commercial product.
+We don't mislead you by using the terms 'open source', then only talk about the extra features of our paid product.
 
-QST is a free, full featured, secure, enterprise grade, open source, complete, quiz/survey/test/exam software aplication.
+Our business is Open Source.
+
+QST is a free, full featured, secure, heavy duty, open source, complete, quiz/survey/test/exam software aplication.
 You can try it at qstonline.ca and download it from https://sourceforge.net/projects/qstonline/. 
 
 Want to create an online or mobile quiz, survey or test? From a quick quiz on your phone to high stakes proctored testing, our QST Builder interface makes it simple. 
-The numerous features (WYSIWYG, Equation/Formula/Symbol and Basic Editor, Question Bank, Multiple Question Types, Multiple Delivery Styles, Multiple Delivery Options, Multiple Results Options, Randomly Chosen Questions, Branching Questions/Skip Logic, Auto Marking, Print a QST, Schedule a QST, Bulk upload students/instructors/classes, etc.) in open source QST rival those found in commercial online exam and survey software systems. 
+The numerous features (WYSIWYG, Equation/Formula/Symbol and Basic Editor, Question Bank, Multiple Question Types, Multiple Delivery Styles, Multiple Delivery Options, Multiple Results Options, Randomly Chosen Questions, Branching Questions/Skip Logic, Auto Marking, Print a QST, Schedule a QST, Bulk upload students/instructors/classes, etc.) in open source QST rival or surpass those found in commercial online exam and survey software systems. Too many features to mention here, but following are a few.
 
 QST allows you to view/mark users quizzes and tests and examine detailed statistics for each quiz/survey/test and question(s) in it. Real time results analysis.
 
