@@ -2,7 +2,9 @@
 Quiz/Survey/Test
 
 The new gold standard for open source assessment software.
-This is not a feature reduced version of some vendors commercial software. 
+
+This is not a feature reduced version of some vendors commercial software.
+
 We don't mislead you by using the terms 'open source', then only talk about the extra features of our commercial product.
 
 QST is a free, full featured, secure, enterprise grade, open source, complete, quiz/survey/test/exam software aplication.
