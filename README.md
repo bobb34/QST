@@ -1,15 +1,7 @@
 # QST
 Quiz/Survey/Test
 
-The new gold standard for open source assessment software.
-
-This is not a feature reduced version of some vendors commercial software.
-
-We don't mislead you by using the terms 'open source', then only talk about the extra features of our paid product.
-
-Our business is Open Source.
-
-QST is a free, full featured, secure, heavy duty, open source, complete, quiz/survey/test/exam software aplication.
+QST is a free, full featured, secure, heavy duty, open source, complete, quiz/survey/test/exam assessment solution.
 You can try it at qstonline.ca and download it from https://sourceforge.net/projects/qstonline/. 
 
 Want to create an online or mobile quiz, survey or test? From a quick quiz on your phone to high stakes proctored testing, our QST Builder interface makes it simple. 
@@ -21,7 +13,7 @@ Share your questions with other QST users or your Question Bank Administrator (e
 
 Import questions and answers (including images) in your word .docs.
 
-Import Moodle XML questions: multiple choice (one or many answers), matching, true/false, short answer and essay. Includes images in questions and answers.
+Export/Import Moodle XML questions: multiple choice (one or many answers), matching, true/false, short answer and essay. Includes images in questions and answers.
 
 Import IMS QTI 2/3 questions: multiple choice (one or many answers), matching, true/false, short answer and essay. Includes images in questions and answers.
 
