@@ -1,7 +1,7 @@
 # QST
 Quiz/Survey/Test
 
-QST is a free, full featured, secure, heavy duty, open source, complete, quiz/survey/test/exam assessment solution.
+QST is a free, full featured, secure, heavy duty, open source, quiz/survey/test assessment solution.
 You can try it at qstonline.ca and download it from https://sourceforge.net/projects/qstonline/. 
 
 Want to create an online or mobile quiz, survey or test? From a quick quiz on your phone to high stakes proctored testing, our QST Builder interface makes it simple. 
@@ -25,7 +25,7 @@ Runs on all major operating systems.
 
 Runs on your laptop, server or the cloud.
 
-Easily scales to thousands of simultaneous users and more. We help you for free!
+Easily scales to thousands of simultaneous users and more.
 
 On android at https://play.google.com/store/apps/details?id=qstonline.ca or download it from sourceforge.net.
 
