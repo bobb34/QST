@@ -23,7 +23,7 @@ Change the QST interface to your own language.
 
 Runs on all major operating systems.
 
-Runs on your laptop, server or the cloud.
+Runs on your laptop, desjtop, server or the cloud.
 
 Easily scales to thousands of simultaneous users and more.
 
