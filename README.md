@@ -15,7 +15,7 @@ Import questions and answers (including images) in your word .docs.
 
 Export/Import Moodle XML questions: multiple choice (one or many answers), matching, true/false, short answer and essay. Includes images in questions and answers.
 
-Import IMS QTI 2/3 questions: multiple choice (one or many answers), matching, true/false, short answer and essay. Includes images in questions and answers.
+Export/Import IMS QTI 2/3 questions: multiple choice (one or many answers), matching, true/false, short answer and essay. Includes images in questions and answers.
 
 GradeBook is also included, so you may also create marks for other assignments and add weights(%) to qst's and assignments for a Complete Assessment Solution. Interpret all your results here.
 
