@@ -24,9 +24,9 @@ GradeBook is also included, so you may also create marks for other assignments a
 
 Change the QST interface to your own language.
 
-Runs on all major operating systems.
+Runs on all major operating systems (Windows 10, Ubuntu, Mac, BSD, et.).
 
-Runs on your laptop, desjtop, server or the cloud.
+Runs on your laptop, desktop, server or the cloud.
 
 Easily scales to thousands of simultaneous users and more.
 
