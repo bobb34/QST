@@ -1,11 +1,11 @@
 # QST
-Quiz/Survey/Test
+Quiz/Survey/Test       Jan 2,2023
 
 QST is a free, complete, secure, heavy duty, open source, quiz/survey/test assessment solution.
 You can try it at qstonline.org and download it from https://sourceforge.net/projects/qstonline/. 
 
 We do not update this site very regularly. Go to https://sourceforge.net/projects/qstonline/ for updates and new versions.
-Our latest release is QST version 3.08.05 on September 13, 2022 .
+Our latest release is QST version 3.09.02 on December 29, 2022 .
 
 Want to create an online or mobile quiz, survey or test? From a quick quiz on your phone to high stakes proctored desktop testing, our QST Builder interface makes it simple. 
 The numerous features (WYSIWYG, Equation/Formula/Symbol and Basic Editor, Question Bank, Multiple Question Types, Multiple Delivery Styles, Multiple Delivery Options, Multiple Results Options, Randomly Chosen Questions, Branching Questions/Skip Logic, Auto Marking, Print a QST, Schedule a QST, Bulk upload students/instructors/classes, etc.) in open source QST rival or surpass those found in commercial online exam and survey software systems. Too many features to mention here, but following are a few.
@@ -26,7 +26,7 @@ GradeBook is also included, so you may also create marks for other assignments a
 
 Change the QST interface to your own language.
 
-Runs on all major operating systems (Windows 10, Ubuntu, Mac, BSD, et.).
+Runs on all major operating systems (Windows 10/11, Ubuntu, Mac OS, BSD, et.).
 
 Runs on your laptop, desktop, server or the cloud.
 
@@ -39,3 +39,6 @@ Get QST at https://sourceforge.net/projects/qstonline/ .
 Licenced under GPL v2.
 
 Thank you to summernote.org for their super WYSIWIG editor, mathjax.com and letsencrypt.org for their free SSL certificates.
+
+Contact us at qstsupport@shaw.ca .
+
