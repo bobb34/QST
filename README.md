@@ -1,5 +1,5 @@
 # QST
-Quiz/Survey/Test       Jan 2,2023
+Quiz/Survey/Test   --    Jan 2,2023
 
 QST is a free, complete, secure, heavy duty, open source, quiz/survey/test assessment solution.
 You can try it at qstonline.org and download it from https://sourceforge.net/projects/qstonline/. 
@@ -26,13 +26,15 @@ GradeBook is also included, so you may also create marks for other assignments a
 
 Change the QST interface to your own language.
 
-Runs on all major operating systems (Windows 10/11, Ubuntu, Mac OS, BSD, et.).
+Installs on Windows 10/11, Ubuntu, Mac OS and is production grade.
 
 Runs on your laptop, desktop, server or the cloud.
 
 Easily scales to thousands of simultaneous users and more.
 
 On android at https://play.google.com/store/apps/details?id=qstonline.ca or download it from sourceforge.net.
+
+Available on Safari, Firefox, Chrome, Edge and Brave.
 
 Get QST at https://sourceforge.net/projects/qstonline/ .
 
