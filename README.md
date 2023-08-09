@@ -30,15 +30,15 @@ Our latest release is QST version 3.11.00 on July 1, 2023.
 
 Want to create an online or mobile quiz, survey or test? From a quick quiz on your phone to large scale, high stakes proctored desktop testing, our software makes it easy. 
 
-The numerous features (Immediate detailed results, WYSIWYG, Math-Chemistry/Equation/Formula/Symbol and Basic Editors, Question Bank, Multiple Question Types, Multiple Delivery Styles, Multiple Delivery Options, Multiple Results Options, Randomly Chosen Questions, Branching Questions/Skip Logic, Auto Marking, Print a QST, Save a users marked QST as a PDF, Schedule a QST, Bulk upload students/instructors/classes, etc.) in open source QST rival or surpass those found in commercial online exam and survey software systems. Too many features to mention here, but following are a few.
+The numerous features (Immediate detailed results, WYSIWYG/Math-Chemistry/Equation/Formula/Symbol and Basic Text Editors, Question Bank, Multiple Question Types, Multiple Delivery Styles, Multiple Delivery Options, Multiple Results Options, Randomly Chosen Questions, Branching Questions/Skip Logic, Auto Marking, Print a QST, Save a users marked QST as a PDF, Schedule a QST, Bulk upload students/instructors/classes, etc.) in open source QST rival or surpass those found in commercial online exam and survey software systems. Too many features to mention here, but following are a few.
 
 QST allows you to view/mark users quizzes and tests and examine detailed statistics for each quiz/survey/test and question(s) in it. Real time results analysis. View detailed QST results by class/group in GradeBook.
 
-Share your questions with other QST users or your Question Bank Administrator (export/import questions with images and pdf's as QST XML).
+Share your questions with other QST users or your Question Bank Administrator (export/import questions with images and pdf's and explanations and file descriptions as QST XML).
 
 Import questions and answers (including images) in your word .docs.
 
-Export/Import Moodle XML questions: multiple choice (one or many answers), matching, true/false, short answer and essay. Includes images in questions and answers.
+Export/Import Moodle XML questions: multiple choice (one or many answers), matching, true/false, short answer and essay. Includes images in questions and answers. Also file descriptions in alt tags for screenreaders and General feedback.
 
 Export/Import IMS QTI 2/3 open format questions: multiple choice (one or many answers), matching, true/false, short answer and essay. Includes images in questions and answers and rubrics.
 
@@ -53,7 +53,8 @@ Installs on Windows 10/11, Ubuntu, Mac OS and is production grade on all.
 Runs on your laptop, desktop, server or the cloud.
 
 Easily scales to thousands of simultaneous users and more.
-No need for complicated infrastructure to support it. All components of QST run multithreaded which greatly reduces the hardware requirements. 
+No need for complicated infrastructure to support it. 
+All components of QST run multithreaded which greatly reduces the hardware requirements. 
 
 On android at https://play.google.com/store/apps/details?id=qstonline.ca or download it from sourceforge.net.
 
