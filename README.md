@@ -24,7 +24,8 @@ At sourceforge.net you can see our track record and the work we put into our sof
 
 
 We do not update this site very regularly. Go to https://sourceforge.net/projects/qstonline/ for updates and new versions.
-Our latest release is QST version 3.09.06 on Mar 17, 2023.
+
+Our latest release is QST version 3.11.00 on July 1, 2023.
 
 
 Want to create an online or mobile quiz, survey or test? From a quick quiz on your phone to large scale, high stakes proctored desktop testing, our software makes it easy. 
