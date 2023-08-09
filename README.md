@@ -38,7 +38,7 @@ Share your questions with other QST users or your Question Bank Administrator (e
 
 Import questions and answers (including images) in your word .docs.
 
-Export/Import Moodle XML questions: multiple choice (one or many answers), matching, true/false, short answer and essay. Includes images in questions and answers. Also file descriptions in alt tags for screenreaders and General feedback.
+Export/Import Moodle XML questions: multiple choice (one or many answers), matching, true/false, short answer and essay. Includes images in questions and answers. Also file descriptions in alt tags for screen readers and General feedback.
 
 Export/Import IMS QTI 2/3 open format questions: multiple choice (one or many answers), matching, true/false, short answer and essay. Includes images in questions and answers and rubrics.
 
