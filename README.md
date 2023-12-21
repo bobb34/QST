@@ -8,6 +8,10 @@ Open source assessment software has been getting a bad name from commercial vend
 Others talk about the benefits of new features developed by the open source community being available to you, but it's been years since anyone developed new features! 
 Many require you to run oudated software (example PHP 7.x and earlier) which can lead to security issues, because they do not want to spend the money to upgrade their non-paying software.
 
+Others add additional terms to their GPL licenses which is not allowed under the GPL and thus mislead you about your rights to the software.
+The Free Software Foundation which enforces the GPL licenses are cracking down on this misuse of the GPL and you should see these restrictive terms removed from these types of GPL abuses.
+Under the GPL license, you can make any changes you want to the software.
+
 To us, open source means providing you our best software, not an inferior version.
 
 Don't believe the uncorroborated marketing statements vendors place on their sites claiming thousands to millions of users/downloads, etc., nor how they may be built on 'open standards'. How your software is implemented has no bearing on a standard format it may output.
