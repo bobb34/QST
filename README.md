@@ -1,5 +1,5 @@
 # QST
-Quiz/Survey/Test   --    Dec 20, 2023
+Quiz/Survey/Test   --    January 18, 2024
 
 QST is a free, complete, secure, heavy duty, open source assessment solution.
 You can try it at qstonline.org and download it from https://sourceforge.net/projects/qstonline/. 
@@ -27,11 +27,11 @@ At QST our teams mandate is to support this software and create new features (ma
 We provide free email support for installs and scaling.
 We've been doing this since we first posted QST in 2018 and will continue to do so for many, many years to come.
 At sourceforge.net you can see our track record and the work we put into our software.
-
+We have just surpassed 17,000 downloads at sourceforge.net .
 
 We do not update this site very regularly. Go to https://sourceforge.net/projects/qstonline/ for updates and new versions.
 
-Our latest release is QST version 3.11.00 on July 1, 2023.
+Our latest release is QST version 3.12.00 on January 5, 2024.
 
 
 Want to create an online or mobile quiz, survey or test? From a quick quiz on your phone to large scale, high stakes proctored desktop testing, our software makes it easy. 
@@ -46,9 +46,11 @@ Import questions and answers (including images) in your word .docs.
 
 Export/Import Moodle XML questions: multiple choice (one or many answers), matching, true/false, short answer and essay. Includes images in questions and answers. Also file descriptions in alt tags for screen readers and General feedback.
 
-Export/Import IMS QTI 2/3 open format questions: multiple choice (one or many answers), matching, true/false, short answer and essay. Includes images in questions and answers and rubrics.
+Export/Import IMS QTI 1.2/2.0/2.1/2.2/3 open format questions: multiple choice (one or many answers), matching, true/false, short answer and essay. Includes images in questions and answers and rubrics.
 
 Convert questions to other popular formats for export: Moodle XML, QTI 2 open format, QST XML, PDF.
+
+Free Converter is also available with a Free Account at qstonline.org.
 
 GradeBook is also included, so you may also create marks for other assignments and add weights(%) to qst's and assignments for a Complete Assessment Solution. Interpret all your results here.
 
