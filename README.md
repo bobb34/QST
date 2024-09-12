@@ -27,7 +27,7 @@ At QST our teams mandate is to support this software and create new features (ma
 We provide free email support for installs and scaling.
 We've been doing this since we first posted QST in 2018 and will continue to do so for many, many years to come.
 At sourceforge.net you can see our track record and the work we put into our software.
-We have just surpassed 18,000 downloads at sourceforge.net .
+We have just surpassed 19,000 downloads at sourceforge.net .
 
 We do not update this site very regularly. Go to https://sourceforge.net/projects/qstonline/ for updates and new versions.
 
