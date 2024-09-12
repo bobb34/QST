@@ -71,7 +71,7 @@ Easily scales to thousands of simultaneous users and more. We will help with ema
 No need for complicated infrastructure to support it. 
 All components of QST run multithreaded which greatly reduces the hardware requirements. 
 
-On android at https://play.google.com/store/apps/details?id=qstonline.ca or download it from sourceforge.net.
+Android app at sourceforge.net.
 
 Available on Safari, Firefox, Chrome, Edge, Opera and Brave.
 
