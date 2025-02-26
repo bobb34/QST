@@ -7,7 +7,9 @@ You can try it at https://qstonline.org and download it from https://sourceforge
 To us, open source means providing you our best software, not an inferior version.
 
 We have 0 security vulnerabilities in our software. Check that against other offerings, including Learning Management System's with quiz/test abilities.
-  There is no reliance on "community" to secure our software, we do that ourselves before we release the code. When a user takes a QST, you can be certain their mark was not tampered with.
+  There is no reliance on "community" to secure our software, we do that ourselves before we release the code. 
+  
+When a user takes a QST, you can be certain their mark was not tampered with.
   
 
   - Our single point access, with all input verified, sized and sanitized guarantees your security.
@@ -15,7 +17,8 @@ We have 0 security vulnerabilities in our software. Check that against other off
   - User lock out after 5 unsuccessful logins for 4 minutes (can be adjusted) foils brute force attacks.
 
   - Only single logins for each user allowed.
-      Role based authorization.
+
+  - Role based authorization.
 
 Don't believe the uncorroborated marketing statements vendors place on their sites claiming thousands to millions of users/downloads, etc., nor how they may be built on 'open standards'. How your software is implemented has no bearing on a standard format it may output, nor how well it performs, nor it's security vulnerabilities.
 
@@ -24,7 +27,7 @@ We are NOT SELLING software.
 Our mission:
 - To be 'the default assessment solution for general use' by providing this free, open source, continually evolving software for everyone.
 
-We possess many, many decades of software development experience which translates to a product that will save you money by being very economical to run at small or large scale, is extremely stable, secure and has a feature set that no others can match. 
+We possess many, many decades of full stack software development experience which translates to a product that will save you money by being very economical to run at small or large scale, is extremely stable, secure and has a feature set that no others can match. 
 
 At QST our teams mandate is to support this software and create new features (many are from users requests).
 We provide free email support for installs and scaling.
