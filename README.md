@@ -1,5 +1,5 @@
 # QST
-Quiz/Survey/Test   --    Jan. 08, 2025
+Quiz/Survey/Test   --    Feb. 25, 2025
 
 QST is a free, complete, secure, enterprise grade, open source online/lan assessment/exam solution.
 You can try it at https://qstonline.org and download it from https://sourceforge.net/projects/qstonline/. 
@@ -7,7 +7,7 @@ You can try it at https://qstonline.org and download it from https://sourceforge
 To us, open source means providing you our best software, not an inferior version.
 
 We have 0 security vulnerabilities in our software. Check that against other offerings, including Learning Management System's with quiz/test abilities.
-  There is no reliance on "community" to secure our software, we do that ourselves.
+  There is no reliance on "community" to secure our software, we do that ourselves before we release the code. When a user takes a QST, you can be certain their mark was not tampered with.
   
 
   - Our single point access, with all input verified, sized and sanitized guarantees your security.
@@ -30,7 +30,7 @@ At QST our teams mandate is to support this software and create new features (ma
 We provide free email support for installs and scaling.
 We've been doing this since we first posted QST in 2018 and will continue to do so for many, many years to come.
 At sourceforge.net you can see our track record and the work we put into our software.
-We have just surpassed 20,000 downloads at sourceforge.net .
+We have just surpassed 21,000 downloads at sourceforge.net .
 
 We do not update this site very regularly. Go to https://sourceforge.net/projects/qstonline/ for updates and new versions.
 
