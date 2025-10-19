@@ -24,7 +24,7 @@ When a user takes a QST, you can be certain their mark was not tampered with.
 
 Don't believe the uncorroborated marketing statements vendors place on their sites claiming thousands to millions of users/downloads, etc., nor how they may be built on 'open standards'. How your software is implemented has no bearing on a standard format it may output, nor how well it performs, nor it's security vulnerabilities.
 
-We are NOT SELLING software.
+We are NOT SELLING software nor forcing you to license it.
 
 Our mission:
 - To be 'the default assessment solution for general use' by providing this free, open source, continually evolving software for everyone.
