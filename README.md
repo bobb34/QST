@@ -37,7 +37,7 @@ We've been doing this since we first posted QST in 2018 and will continue to do 
 At sourceforge.net you can see our track record and the work we put into our software.
 We have just surpassed 24,000 downloads at sourceforge.net .
 
-We do not update this site very regularly. Go to https://sourceforge.net/projects/qstonline/ for updates and new versions.
+We do not update this site very regularly. Go to https://sourceforge.net/projects/qstonline/ for updates, new versions or to ask a question.
 
 Our latest release is QST version 3.12.09 on April 26, 2025. 
 - Released under GPLv2 only (no license required for commercial use). 
