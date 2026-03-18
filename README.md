@@ -55,7 +55,7 @@ Want to create an online or mobile quiz, survey or test? From a quick quiz on yo
 The numerous features (Immediate detailed results, WYSIWYG/Math-Chemistry/Equation/Formula/Symbol and Basic Text Editors, Question Bank, Multiple Question Types, Multiple Delivery Styles, Multiple Delivery Options, Multiple Results Options, Randomly Chosen Questions, Branching Questions/Skip Logic, Auto Marking, Print a QST, Save a users marked QST as a PDF, Schedule a QST, Bulk upload students/instructors/classes, etc.) in open source QST rival or surpass those found in commercial online exam and survey software systems. Too many features to mention here, but following are a few.
 
 STEM Subjects support — unlimited free creation of WYSIWYG math/chemistry equations (MathJax / TeX / LaTex / MathML / mhchem) with QST EQ editor.
-
+<BR>
 <img width="165" height="500" alt="image" src="https://github.com/user-attachments/assets/4af645dd-8d8f-439d-b7c3-63fa9f4efccf" />
 
 
