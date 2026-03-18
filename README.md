@@ -58,6 +58,8 @@ The numerous features (Immediate detailed results, WYSIWYG/Math-Chemistry/Equati
 
 QST allows you to view/mark users quizzes and tests and examine detailed statistics for each quiz/survey/test and question(s) in it. Real time results analysis. View detailed QST results by class/group in GradeBook.
 
+<img width="808" height="416" alt="image" src="https://github.com/user-attachments/assets/c5aa3921-9d03-4888-ac2c-dcf0716f9294" />
+
 Share your questions with other QST users or your Question Bank Administrator (export/import questions with images and pdf's and explanations and file descriptions as QST XML).
 
 Import questions and answers (including images) in your word .docs.
