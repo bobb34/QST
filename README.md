@@ -1,10 +1,10 @@
 # QST
-Quiz/Survey/Test   --    Oct. 18, 2025
+Quiz/Survey/Test   --    Mar. 18, 2026
 
-QST is a free, complete, secure, enterprise grade, open source online/lan assessment/exam solution.
+QST is a free, complete, secure, enterprise grade, open source online/lan assessment/exam platform.
 You can try it at https://qstonline.org and download it from https://sourceforge.net/projects/qstonline/. 
 
-We no longer maintain a release here due to the AI issue.
+We no longer maintain a release here.
 
 To us, open source means providing you our best software, not an inferior version. As we always have.
 
@@ -26,8 +26,6 @@ Don't believe the uncorroborated marketing statements vendors place on their sit
 
 We are NOT SELLING software nor forcing you to license it.
 
-Our mission:
-- To be 'the default assessment solution for general use' by providing this free, open source, continually evolving software for everyone.
 
 We possess many, many decades of full stack software development experience which translates to a product that will save you money by being very economical to run at small or large scale, is extremely stable, secure and has a feature set that no others can match. 
 
@@ -35,7 +33,7 @@ At QST our teams mandate is to support this software and create new features (ma
 We provide free email support for installs and scaling.
 We've been doing this since we first posted QST in 2018 and will continue to do so for many, many years to come.
 At sourceforge.net you can see our track record and the work we put into our software.
-We have just surpassed 24,000 downloads at sourceforge.net .
+We have just surpassed 25,000 downloads at sourceforge.net .
 
 We do not update this site very regularly. Go to https://sourceforge.net/projects/qstonline/ for updates, new versions or to ask a question.
 
@@ -58,7 +56,11 @@ The numerous features (Immediate detailed results, WYSIWYG/Math-Chemistry/Equati
 
 QST allows you to view/mark users quizzes and tests and examine detailed statistics for each quiz/survey/test and question(s) in it. Real time results analysis. View detailed QST results by class/group in GradeBook.
 
+
 <img width="808" height="416" alt="image" src="https://github.com/user-attachments/assets/c5aa3921-9d03-4888-ac2c-dcf0716f9294" />
+
+<img width="658" height="548" alt="image" src="https://github.com/user-attachments/assets/63a2c2fb-980b-4696-98d6-f5bc5f407b5d" />
+
 
 Share your questions with other QST users or your Question Bank Administrator (export/import questions with images and pdf's and explanations and file descriptions as QST XML).
 
