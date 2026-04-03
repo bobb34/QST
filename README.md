@@ -67,7 +67,7 @@ QST allows you to view/mark users quizzes and tests and examine detailed statist
 <img width="658" height="548" alt="image" src="https://github.com/user-attachments/assets/63a2c2fb-980b-4696-98d6-f5bc5f407b5d" />
 
 <UL>
-<LI></LI>Share your questions with other QST users or your Question Bank Administrator (export/import questions with images and pdf's and explanations and file descriptions as QST XML).
+<LI>Share your questions with other QST users or your Question Bank Administrator (export/import questions with images and pdf's and explanations and file descriptions as QST XML).
 
 <LI>Import questions and answers (including images) in your word .docs.
 
@@ -88,8 +88,8 @@ QST allows you to view/mark users quizzes and tests and examine detailed statist
 <LI>Runs on your laptop, desktop, server or the cloud.
 
 <LI>Easily scales to thousands of simultaneous users and more. We will help with email support.
-<LI></LI>No need for complicated infrastructure to support it. 
-<LI></LI>All components of QST run multithreaded which greatly reduces the hardware requirements. 
+<LI>No need for complicated infrastructure to support it. 
+<LI>All components of QST run multithreaded which greatly reduces the hardware requirements. 
 
 <LI>Android app at sourceforge.net.
 
@@ -97,7 +97,6 @@ QST allows you to view/mark users quizzes and tests and examine detailed statist
 
 <LI>Get QST at https://sourceforge.net/projects/qstonline/ .
 
-<LI>Licenced under GPL v2.
 </UL>
 <P><B>Thank you to summernote.org for their super WYSIWIG editor, mathjax.com and letsencrypt.org for their free SSL certificates.</B>B>
 
