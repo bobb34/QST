@@ -27,7 +27,7 @@ Don't believe the uncorroborated marketing statements vendors place on their sit
 We are NOT SELLING software nor forcing you to license it.
 
 
-<H3>We possess many, many, many decades of full stack software development experience which translates to a product that will save you money by being very economical to run at small or large scale, is extremely stable, secure and has a feature set that no others can match. </H3>H3>
+<H3>We possess many, many, many decades of full stack software development experience which translates to a product that will save you money by being very economical to run at small or large scale, is extremely stable, secure and has a feature set that no others can match. </H3>
 
 At QST our teams mandate is to support this software and create new features (many are from users requests).
 We provide free email support for installs and scaling.
@@ -50,7 +50,7 @@ It will work with other templates on offer from other vendors and some basic for
   
 * ** *** **** ***************************************
   
-<H3>Want to create an online or mobile quiz, survey or test? From a quick quiz on your phone to large scale, high stakes proctored desktop testing, our software makes it easy, secure and economical. </H3>H3>
+<H3>Want to create an online or mobile quiz, survey or test? From a quick quiz on your phone to large scale, high stakes proctored desktop testing, our software makes it easy, secure and economical. </H3>
 
 The numerous features (Immediate detailed results, WYSIWYG/Math-Chemistry/Equation/Formula/Symbol and Basic Text Editors, Question Bank, Multiple Question Types, Multiple Delivery Styles, Multiple Delivery Options, Multiple Results Options, Randomly Chosen Questions, Branching Questions/Skip Logic, Auto Marking, Print a QST, Save a users marked QST as a PDF, Schedule a QST, Bulk upload students/instructors/classes, etc.) in open source QST rival or surpass those found in commercial online exam and survey software systems. Too many features to mention here, but following are a few.
 
@@ -66,40 +66,40 @@ QST allows you to view/mark users quizzes and tests and examine detailed statist
 
 <img width="658" height="548" alt="image" src="https://github.com/user-attachments/assets/63a2c2fb-980b-4696-98d6-f5bc5f407b5d" />
 
+<UL>
+<LI></LI>Share your questions with other QST users or your Question Bank Administrator (export/import questions with images and pdf's and explanations and file descriptions as QST XML).
 
-Share your questions with other QST users or your Question Bank Administrator (export/import questions with images and pdf's and explanations and file descriptions as QST XML).
+<LI>Import questions and answers (including images) in your word .docs.
 
-Import questions and answers (including images) in your word .docs.
+<LI>Export/Import Moodle XML questions: multiple choice (one or many answers), matching, true/false, short answer and essay. Includes images in questions and answers. Also file descriptions in alt tags for screen readers and General feedback.
 
-Export/Import Moodle XML questions: multiple choice (one or many answers), matching, true/false, short answer and essay. Includes images in questions and answers. Also file descriptions in alt tags for screen readers and General feedback.
+<LI>Export/Import IMS QTI 1.2/2.0/2.1/2.2/3 open format questions: multiple choice (one or many answers), matching, true/false, short answer and essay. Includes images in questions and answers and rubrics.
 
-Export/Import IMS QTI 1.2/2.0/2.1/2.2/3 open format questions: multiple choice (one or many answers), matching, true/false, short answer and essay. Includes images in questions and answers and rubrics.
+<LI>Convert questions to other popular formats for export: Moodle XML, QTI 2 open format, QST XML, PDF.
 
-Convert questions to other popular formats for export: Moodle XML, QTI 2 open format, QST XML, PDF.
+<LI>Free Converter is also available with a Free Account at qstonline.org.
 
-Free Converter is also available with a Free Account at qstonline.org.
+<LI>GradeBook is also included, so you may also create marks for other assignments and add weights(%) to qst's and assignments for a Complete Assessment Solution. Interpret all your results here.
 
-GradeBook is also included, so you may also create marks for other assignments and add weights(%) to qst's and assignments for a Complete Assessment Solution. Interpret all your results here.
+<LI>Change the QST interface to your own language.
 
-Change the QST interface to your own language.
+<LI>Installs on Windows 7/10/11, Ubuntu, Mac OS and is production grade on all.
 
-Installs on Windows 7/10/11, Ubuntu, Mac OS and is production grade on all.
+<LI>Runs on your laptop, desktop, server or the cloud.
 
-Runs on your laptop, desktop, server or the cloud.
+<LI>Easily scales to thousands of simultaneous users and more. We will help with email support.
+<LI></LI>No need for complicated infrastructure to support it. 
+<LI></LI>All components of QST run multithreaded which greatly reduces the hardware requirements. 
 
-Easily scales to thousands of simultaneous users and more. We will help with email support.
-No need for complicated infrastructure to support it. 
-All components of QST run multithreaded which greatly reduces the hardware requirements. 
+<LI>Android app at sourceforge.net.
 
-Android app at sourceforge.net.
+<LI>Available on Safari, Firefox, Chrome, Edge, Opera and Brave.
 
-Available on Safari, Firefox, Chrome, Edge, Opera and Brave.
+<LI>Get QST at https://sourceforge.net/projects/qstonline/ .
 
-Get QST at https://sourceforge.net/projects/qstonline/ .
-
-Licenced under GPL v2.
-
-Thank you to summernote.org for their super WYSIWIG editor, mathjax.com and letsencrypt.org for their free SSL certificates.
+<LI>Licenced under GPL v2.
+</UL>
+<P><B>Thank you to summernote.org for their super WYSIWIG editor, mathjax.com and letsencrypt.org for their free SSL certificates.</B>B>
 
 Contact us at qstsupport@shaw.ca .
 
