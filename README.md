@@ -1,7 +1,7 @@
 # QST
 Quiz/Survey/Test   --    Mar. 18, 2026
 
-QST is a free, complete, secure, enterprise grade, open source online/lan assessment/exam platform.
+<H1>QST is the world's first Enterprise Grade, open source online/lan assessment/exam platform that is self-hosted.</H1>
 You can try it at https://qstonline.org and download it from https://sourceforge.net/projects/qstonline/. 
 
 We no longer maintain a release here.
@@ -50,7 +50,7 @@ It will work with other templates on offer from other vendors and some basic for
   
 * ** *** **** ***************************************
   
-Want to create an online or mobile quiz, survey or test? From a quick quiz on your phone to large scale, high stakes proctored desktop testing, our software makes it easy, secure and economical. 
+<H3>Want to create an online or mobile quiz, survey or test? From a quick quiz on your phone to large scale, high stakes proctored desktop testing, our software makes it easy, secure and economical. </H3>H3>
 
 The numerous features (Immediate detailed results, WYSIWYG/Math-Chemistry/Equation/Formula/Symbol and Basic Text Editors, Question Bank, Multiple Question Types, Multiple Delivery Styles, Multiple Delivery Options, Multiple Results Options, Randomly Chosen Questions, Branching Questions/Skip Logic, Auto Marking, Print a QST, Save a users marked QST as a PDF, Schedule a QST, Bulk upload students/instructors/classes, etc.) in open source QST rival or surpass those found in commercial online exam and survey software systems. Too many features to mention here, but following are a few.
 
