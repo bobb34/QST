@@ -1,4 +1,4 @@
-<script type="application/ld+json">
+<HEAD><script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
@@ -20,7 +20,7 @@
   ]
 }
 </script>
-
+</HEAD>
 
 # QST
 Quiz/Survey/Test   --    Apr. 3, 2026
