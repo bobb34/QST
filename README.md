@@ -100,7 +100,7 @@ QST allows you to view/mark users quizzes and tests and examine detailed statist
 <LI>Get QST at https://sourceforge.net/projects/qstonline/ .
 
 </UL>
-<P><B>Thank you to summernote.org for their super WYSIWIG editor, mathjax.com and letsencrypt.org for their free SSL certificates.</B>B>
+<P><B>Thank you to summernote.org for their super WYSIWIG editor, mathjax.com and letsencrypt.org for their free SSL certificates.</B>
 
 Contact us at qstsupport@shaw.ca .
 
