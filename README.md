@@ -1,7 +1,7 @@
 # QST
 Quiz/Survey/Test   --    Mar. 18, 2026
 
-<H1>QST is the world's first Enterprise Grade, open source online/lan assessment/exam platform that is self-hosted.</H1>
+<H1>QST is the world's first Enterprise Grade, self-hosted, open source online/lan assessment/exam platform.</H1>
 You can try it at https://qstonline.org and download it from https://sourceforge.net/projects/qstonline/. 
 
 We no longer maintain a release here.
@@ -11,7 +11,7 @@ To us, open source means providing you our best software, not an inferior versio
 We have 0 security vulnerabilities in our software. Check that against other offerings, including Learning Management System's with quiz/test abilities.
   There is no reliance on "community" to secure our software, we do that ourselves before we release the code.
   
-When a user takes a QST, you can be certain their mark was not tampered with.
+<H3>When a user takes a QST, you can be certain their mark was not tampered with.</H3>
   
 
   - Our single point access, with all input verified, sized and sanitized guarantees your security.
@@ -27,7 +27,7 @@ Don't believe the uncorroborated marketing statements vendors place on their sit
 We are NOT SELLING software nor forcing you to license it.
 
 
-We possess many, many decades of full stack software development experience which translates to a product that will save you money by being very economical to run at small or large scale, is extremely stable, secure and has a feature set that no others can match. 
+<H3>We possess many, many, many decades of full stack software development experience which translates to a product that will save you money by being very economical to run at small or large scale, is extremely stable, secure and has a feature set that no others can match. </H3>H3>
 
 At QST our teams mandate is to support this software and create new features (many are from users requests).
 We provide free email support for installs and scaling.
