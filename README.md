@@ -1,3 +1,27 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "QST ",
+  "operatingSystem": "Linux, Windows, Web, macOS",
+  "applicationCategory": "EducationalSoftware",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "description": "A free open-source assessment platform for secure exams, math/chemistry support, and multilingual testing.",
+  "featureList": [
+    "STEM Subject Support with MathJax and LaTeX professional editor",
+    "QTI and Moodle XML Question Portability",
+    "Self-hosted Privacy and Security",
+    "Easily scales to thousands of simultaneous users",
+    "Robust GradeBook and Analytics"
+  ]
+}
+</script>
+
+
 # QST
 Quiz/Survey/Test   --    Apr. 3, 2026
 
