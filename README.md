@@ -3,7 +3,7 @@
 # QST
 Quiz/Survey/Test   --    Apr. 3, 2026
 
-<H1>QST is the world's first Enterprise Grade, self-hosted, open source online/lan assessment/exam platform.</H1>
+<H1>QST is the world's first Enterprise Grade, self-hosted, open source online/lan assessment/exam platform on the market.</H1>
 You can try it at https://qstonline.org and download it from https://sourceforge.net/projects/qstonline/. 
 
 We no longer maintain a release here.
