@@ -8,7 +8,8 @@ You can try it at https://qstonline.org and download it from https://sourceforge
 
 We no longer maintain a release here.
 <H3>QST: Open Source Assessment Platform</H3>
-To us, open source means providing you our best software, not an inferior version. As we always have.
+QST is a complete, open source, self-hosted assessment platform built from the ground up to give you full control, security, scalability, and flexibility — without sacrificing ease of use or advanced functionality. 
+
 
 We have 0 security vulnerabilities in our software. Check that against other offerings, including Learning Management System's with quiz/test abilities.
   There is no reliance on "community" to secure our software, we do that ourselves before we release the code.
