@@ -3,11 +3,11 @@
 # QST
 Quiz/Survey/Test   --    Apr. 3, 2026
 
-<H1>QST is the world's first Enterprise Grade, self-hosted, complete, open source, online/lan, assessment/exam platform on the market.</H1>
+<H1>QST is the world's first Enterprise Grade, self-hosted, complete, open source, multi-tenant, assessment/exam platform on the market.</H1>
 You can try it at https://qstonline.org and download it from https://sourceforge.net/projects/qstonline/. 
 
 We no longer maintain a release here.
-<H3>QST: Open Source Assessment Platform</H3>
+<H3>QST: Open Source Universal Assessment Platform</H3>
 QST is a complete, open source, self-hosted assessment platform built from the ground up to give you full control, security, scalability, and flexibility — without sacrificing ease of use or advanced functionality. 
 <P>
 
