@@ -1,6 +1,6 @@
 
 <H1>Why choose QST for you Assessments?</H1>
-QST is the most complete Open Source Assesment Software available with features that no others have.
+QST is the most complete Open Source Assesment Software available with pedagogical features that no others have - Memory/Recall.
 
 <H2>QST is the world's first Enterprise Grade, self-hosted, complete, open source, multi-tenant, assessment platform on the market.</H2>
 You can try it at https://qstonline.org and download it from https://sourceforge.net/projects/qstonline/. 
