@@ -55,7 +55,7 @@ We are currently working on our AI templates, which you can use to create questi
 
 The numerous features (Immediate detailed results, WYSIWYG/Math-Chemistry/Equation/Formula/Symbol and Basic Text Editors, Question Bank, Multiple Question Types, Multiple Delivery Styles, Multiple Delivery Options, Multiple Results Options, Randomly Chosen Questions, Branching Questions/Skip Logic, Auto Marking, Print a QST, Save a users marked QST as a PDF, Schedule a QST, Bulk upload students/instructors/classes, etc.) in open source QST rival or surpass those found in commercial online exam and survey software systems. Too many features to mention here, but following are a few.
 
-STEM Subjects support — unlimited free creation of WYSIWYG math/chemistry equations (MathJax / TeX / LaTex / MathML / mhchem) with QST EQ editor. Instructors can choose the EQ answer type and ask students for the Math or Chemistry equations, and they can create it with the EQ Editor. It Auto Marks against the answer the instructor created. There can only be 1 correct answer.
+STEM Subjects support — unlimited free creation of WYSIWYG math/chemistry equations (MathJax / TeX / LaTex / MathML / mhchem) with QST EQ editor. Instructors can choose the EQ answer type and ask Students for the Math or Chemistry equations, and they can create it with the EQ Editor. It Auto Marks against the answer the instructor created. There can only be 1 correct answer.
 <P>
 <img width="165" height="500" alt="image" src="https://github.com/user-attachments/assets/4af645dd-8d8f-439d-b7c3-63fa9f4efccf" />
 
